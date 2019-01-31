@@ -1,0 +1,9 @@
+#messages ul
+{
+    margin-top: 100px;
+}
+#messages ul li
+{
+    color: green;
+    list-style-type: none;
+}
